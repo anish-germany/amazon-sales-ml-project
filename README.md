@@ -1,7 +1,7 @@
 # Kaggle Amazon Sales & Trading Insights Notebooks
 
 These notebooks are designed to run on Kaggle with the dataset:
-`/kaggle/input/amazon-sales-and-trading-insights-dataset-2024`
+https://www.kaggle.com/datasets/nalisha/amazon-sales-and-trading-insights-dataset-2024
 
 Each notebook:
 - loads the raw dataset automatically,
