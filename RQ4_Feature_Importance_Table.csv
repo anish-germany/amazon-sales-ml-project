@@ -1,0 +1,16 @@
+Feature,Importance
+num__total_sales,0.01627009111019561
+num__unit_price,0.01601244200600421
+num__shipping_cost,0.01584251499116137
+num__discount,0.013387069053978596
+num__quantity,0.008728090613176047
+cat__category_Fashion,0.003327206288849227
+cat__category_Electronics,0.003273833729416297
+cat__category_Home,0.0031480801251767975
+cat__sub_category_Furniture,0.002895820501760171
+cat__sub_category_Footwear,0.002755761339528758
+cat__sub_category_Kitchen,0.002735058723670652
+cat__sub_category_Clothing,0.0027317429255360294
+cat__sub_category_Laptop,0.002396787349778714
+cat__sub_category_Mobile,0.0023411584630563934
+cat__sub_category_Accessories,0.002227197911793116

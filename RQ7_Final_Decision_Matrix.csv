@@ -1,0 +1,6 @@
+Criterion,Logistic Regression,Random Forest,SVM
+Performance,7,9,8
+Interpretability,10,7,6
+Robustness,7,9,8
+Computational Cost,10,6,5
+Deployment Suitability,9,8,6

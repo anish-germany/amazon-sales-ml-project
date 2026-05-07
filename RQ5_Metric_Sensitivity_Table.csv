@@ -1,0 +1,13 @@
+Model,Metric,Score
+Logistic Regression,Accuracy,0.2545
+Logistic Regression,Precision,0.25430815959780323
+Logistic Regression,Recall,0.2544129449713465
+Logistic Regression,F1,0.2541379032489619
+Random Forest,Accuracy,0.25
+Random Forest,Precision,0.24837946829590085
+Random Forest,Recall,0.24911778800618734
+Random Forest,F1,0.24496098652397438
+SVM,Accuracy,0.2625
+SVM,Precision,0.2616133566918046
+SVM,Recall,0.261761146790096
+SVM,F1,0.2592290668642431
