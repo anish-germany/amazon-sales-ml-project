@@ -1,5 +1,7 @@
 # Kaggle Amazon Sales & Trading Insights Notebooks
 
+
+# to see the all code with result open the notebookaebe58a623.ipynb
 These notebooks are designed to run on Kaggle with the dataset:
 https://www.kaggle.com/datasets/nalisha/amazon-sales-and-trading-insights-dataset-2024
 
